@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NODE_EXPORTER_VERSION="1.8.2"
+NODE_EXPORTER_VERSION="1.11.1"
 
 # Check if wget is installed
 if ! command -v wget &> /dev/null; then
